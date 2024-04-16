@@ -52,7 +52,6 @@ export const getDb = async () => {
   const result = await request;
   console.log('result.value', result)
   return result?.value
-
 };
 
 // Start the database
