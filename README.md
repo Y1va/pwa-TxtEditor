@@ -74,8 +74,7 @@ Once all necessary dependencies have been installed you can run the application 
 
 ## Deployed application to Render
 
-You can access the deployed application which is hosted on Render through this link: 
-
+You can access the deployed application which is hosted on Render through this link: [Render Application Link](https://pwa-txteditor.onrender.com/)
 
 
 ## License
